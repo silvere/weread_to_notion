@@ -2,3 +2,6 @@ requests
 notion-client
 github-heatmap
 python-dotenv
+openai
+python-frontmatter
+Markdown
